@@ -1,0 +1,10 @@
+.my-chip {
+    .label {
+        color: var(--ion-color-primary);
+    }
+}
+
+.ion-activatable {
+    position: relative;
+    overflow: hidden;
+}
